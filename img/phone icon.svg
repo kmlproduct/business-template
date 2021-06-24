@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="11" height="18" viewBox="0 0 11 18">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 25px;
+        fill: #92a7ab;
+        text-anchor: middle;
+        font-family: FontAwesome;
+        text-transform: uppercase;
+      }
+    </style>
+  </defs>
+  <text id="phone_icon" data-name="phone icon" class="cls-1" x="5" y="18"><tspan x="5"></tspan></text>
+</svg>

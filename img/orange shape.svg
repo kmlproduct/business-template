@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="136" height="109" viewBox="0 0 136 109">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f69b37;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="orange_shape" data-name="orange shape" class="cls-1" d="M1416,2661l67-109,69,109H1416Z" transform="translate(-1416 -2552)"/>
+</svg>

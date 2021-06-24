@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="106" height="79" viewBox="0 0 106 79">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #29c2e1;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="blue_shape" data-name="blue shape" class="cls-1" d="M1340,2661l57-79,49,79H1340Z" transform="translate(-1340 -2582)"/>
+</svg>
